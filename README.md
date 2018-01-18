@@ -10,3 +10,10 @@ But, I think my set based model not very good, because to do a IR task it will s
 Perhaps is my python skill still not good enough.
 
 But again, maybe this code will inspire someone.
+
+follwing is the file annotation:
+*set based model.py: code which implement set based model.
+*result.txt: the result which this code will produce with the data list below.
+*DBdoc.json: the data which I used when I was doing the project.
+*qrels-v2.txt: the data which I used when I was doing the project.
+*queries-v2.txt: the data which I used when I was doing the project.
