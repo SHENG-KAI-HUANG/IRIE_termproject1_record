@@ -4,4 +4,9 @@ This is my school project which was submitted in 106-1, this is set based model 
 Because my code is annotated by chinese, so I'm sorry for foreign people who never learned chinese.
 Maybe in future day I will translate all annotaion into english.
 
-if someone want to use this code, first you will need 
+To use this code, first you will need data such as DBpedia-Entity v2, and put all data(e.g DBdoc.json, queries-v2.txt) with this code in same file folder.
+
+But, I think my set based model not very good, because to do a IR task it will spent several hours to finish a job.
+Perhaps is my python skill still not good enough.
+
+But again, maybe this code will inspire someone.
